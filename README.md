@@ -29,10 +29,12 @@ conda activate CV
 需要配置的环境在requirement.txt文件中可见。
 本目录下的代码，不包含训练集，以及测试参数，需要自己配置训练。
 这里利用的是COCO数据集，所以必须安装pycocotools
+不过clone的代码中没有数据，需要手动下载coco数据集。构建一个VOCdevkit文件夹，把下载的VOC2012文件夹放进去。
 
 基础代码是利用https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_object_detection/yolov3_spp的代码构建做了些许修改
 网络的具体讲解，也可以查看上述链接的讲解（推荐）
 
 如果只想测试的话，我把我训练的数据放在百度云上链接：https://pan.baidu.com/s/18l_9ErlFUEIaSYQdyRQRWw    提取码：b7fs
 新建一个weights目录，把下载的数据放进去，直接运行就行predict_test.py文件
+
 
