@@ -1,0 +1,2 @@
+# object_detection_yolov3
+基于yolov3的目标检测项目，你可以直接下载代码，或直接利用docker下载环境直接运行。详情见README
