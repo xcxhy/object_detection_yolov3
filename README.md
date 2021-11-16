@@ -12,7 +12,7 @@ update:2021.11.16
 修改：
 更新了docker版本至xcxhy/ob_detector:1.1版本
 
->> docker pull xcxhy/ob_detector:1.1 -->
+>> docker pull xcxhy/ob_detector:1.1
 
 重新更新了dockerfile文件，下载完毕之后，可以可以直接运行 
 
