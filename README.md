@@ -80,4 +80,9 @@ update:2021.11.16
 
 新建一个weights目录，把下载的数据放进去，直接运行就行predict_test.py文件
 
+页面展示
+![8a4277eda4eca08a46b7437fd7c9fb6](https://user-images.githubusercontent.com/48343978/141947818-0c83d778-ed21-460e-a728-676405722b5d.png)
+![test5](https://user-images.githubusercontent.com/48343978/141947996-73dc953f-031a-467d-94be-166e61fcac8f.jpg)
+![test2](https://user-images.githubusercontent.com/48343978/141948028-d0f4944e-bf1f-4a54-ab89-30302ce6ed26.jpg)
+
 
